@@ -28,3 +28,15 @@ projection matrix that, among other actions, places the negative z coordinate of
 camera-space point into the w coordinate of the transformed point. Subsequent
 division by the w coordinate produces a three-dimensional point having normalized
 device coordinates.
+9. P178 Bump Mapping
+10. P187  
+The radiant power (energy per unit time) emitted by a light source or
+received by a surface is called *flux* and is measured in watts (W). The power
+emitted by a light source or received by a surface per unit area is called *flux density*
+and is measured in watts per square meter (W⋅m−2). The flux density emitted
+by a surface is called the surface’s *radiosity*, and the flux density incident on a
+surface is called the *irradiance* of the light.
+11. P230  
+8.3.1 Octrees
+12. P245  
+Decal
