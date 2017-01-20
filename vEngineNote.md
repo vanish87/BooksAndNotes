@@ -15,3 +15,5 @@ Singleton& operator=(Singleton const&); // assign op. hidden
 ~Singleton(); // dtor hidden
 };
 ```
+2. Good example of Script with C++  
+https://gamedevcoder.wordpress.com/2013/05/09/binding-c-with-lua-squirrel-game-monkey-and-ocaml/
